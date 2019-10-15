@@ -3,8 +3,9 @@
 ## Vault - database dynamic secrets
 
 A prospect would like to obtain short lived database credentials using Vault.  
-
-Demonstrate Vault provisioning database credentials (your choice of database; live demo)
+https://testdriven.io/blog/dynamic-secret-generation-with-vault-and-flask/
+https://www.vaultproject.io/docs/secrets/databases/mongodb.html
+Demonstrate Vault provisioning mongoDB database credentials (live demo)
 Describe the solution (slides, code review)
 Discuss the solution using Vault versus other tools in the space
 
